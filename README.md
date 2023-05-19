@@ -4,7 +4,7 @@ Hi,
 
 My Name is Wang Le Yan, welcome to my website.
 
-https://wangleyan.github.io
+https://leyanwang.github.io
 
 
 Thank you!
